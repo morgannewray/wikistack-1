@@ -1,0 +1,28 @@
+{
+  "name": "wikistack-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon /mnt/c/Users/walls/WDF-Workshops/wikistack-1/wikistack.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wow-Its-Ian/wikistack-1.git"
+  },
+  "author": "Ian Walls, Morganne Wray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wow-Its-Ian/wikistack-1/issues"
+  },
+  "homepage": "https://github.com/Wow-Its-Ian/wikistack-1#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "pg": "^8.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
