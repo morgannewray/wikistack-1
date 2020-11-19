@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Wow-Its-Ian/wikistack-1#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "html-template-tag": "^3.1.0",
     "morgan": "^1.10.0",
     "pg": "^8.5.1"
   },
